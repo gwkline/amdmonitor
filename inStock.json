@@ -1,0 +1,23 @@
+{
+    "content": null,
+    "embeds": [{
+        "title": "***Add To Cart Link***",
+        "url": "https://www.amd.com/en/direct-buy/5458372200/us",
+        "color": 15868505,
+        "fields": [{
+            "name": "Title",
+            "value": "Status: In Stock\nLast Updated:",
+            "inline": true
+        }],
+        "footer": {
+            "text": "Powered by Kline Services",
+            "icon_url": "https://i.imgur.com/eHjQdeB.png"
+        },
+
+        "thumbnail": {
+            "url": "https://i.imgur.com/k9CDoTV.png"
+        }
+    }],
+    "username": "Kline Monitors",
+    "avatar_url": "https://i.imgur.com/eHjQdeB.png"
+}
